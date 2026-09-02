@@ -1,0 +1,8 @@
+{
+  "annotations": [
+    {"id": "S001", "bone_id": "B003", "layer": "dimension", "label": "总长", "value": 162.0, "value_alt": 162.0},
+    {"id": "S002", "bone_id": "B003", "layer": "dimension", "label": "备注重读", "value": 163.0, "value_alt": 162.0},
+    {"id": "S003", "bone_id": "B001", "layer": "outline", "label": "主轮廓框", "value": 1},
+    {"id": "S004", "bone_id": "B999", "layer": "dimension", "label": "断链示例", "value": 42}
+  ]
+}
