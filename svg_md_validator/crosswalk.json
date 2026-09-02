@@ -1,0 +1,9 @@
+{
+  "note": "骨用页面pt坐标，魂用局部mm参数，换算关系写在这里，两边不重复存值",
+  "mappings": [
+    {"bone_id": "B001", "view": "V-main"},
+    {"bone_id": "B002", "view": "V-main"},
+    {"bone_id": "B003", "view": "V-main"},
+    {"bone_id": "B004", "view": "V-title"}
+  ]
+}
