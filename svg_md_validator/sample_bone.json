@@ -1,0 +1,8 @@
+{
+  "elements": [
+    {"id": "B001", "type": "rect", "layer": "outline", "page_pt": [10, 10, 200, 80]},
+    {"id": "B002", "type": "line", "layer": "dimension", "page_pt": [0, 90, 200, 90]},
+    {"id": "B003", "type": "text_glyph", "layer": "dimension", "page_pt": [100, 82]},
+    {"id": "B004", "type": "rect", "layer": "titleblock", "page_pt": [210, 10, 290, 80]}
+  ]
+}
